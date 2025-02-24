@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Educational Game - Hidden Numbers</b>
-  - [Hidden Numbers]([https://github.com/josephmathew0/HiddenNumbers-Game](https://josephmathew0.github.io/HiddenNumbers-Game))
+  - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](link) <b><i>(New)</b></i>
 

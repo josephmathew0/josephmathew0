@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>SJMTA website (JavaScript, HTML, CSS)</b>
-  - [sjmta.org](https://sjmta.org/) <b><i>(New)</b></i>
+  - [sjmta.org](https://sjmta.org/) <b><i>(New)</b></i><br><br>
 - <b>Educational Game - Hidden Numbers</b>
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
 

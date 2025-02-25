@@ -1,15 +1,14 @@
 <h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephmathew0">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b>SJMTA website (JavaScript, HTML, CSS)</b>
+  - [sjmta.org](https://sjmta.org/) <b><i>(New)</b></i>
 - <b>Educational Game - Hidden Numbers</b>
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](link) <b><i>(New)</b></i>
 
 <h2>📝 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](link)
+- [Machine Learning - Coursera](link)
 
 <h2> 🤳 Connect with me:</h2>
 

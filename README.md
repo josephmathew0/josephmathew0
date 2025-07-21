@@ -2,13 +2,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
-  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Render deployed version.  
-  - [sjmta.org](https://sjmta.org/) 
+- <b>NeuraLearn – AI-Aided Learning Platform (React, Flask, PostgreSQL, T5, BERT)</b>  
+  An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation.  
+  - 🌐 Live site: [neuralearn.online](https://neuralearn.online)  
+  - 💻 Code: [GitHub Repository](https://github.com/josephmathew0/NeuraLearn)
 
+ 
 - <b>Educational Game – Hidden Numbers</b>  
   A fun browser game that helps students understand decimal comparison while identifying their misconceptions.  
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
+  - 
+ 
+- <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
+  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Render deployed version.  
+  - [sjmta.org](https://sjmta.org/) 
 
 
 <h2>📝 Certifications</h2>

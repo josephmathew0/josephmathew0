@@ -9,7 +9,7 @@
 
  
 - <b>Educational Game – Hidden Numbers</b>  
-  A fun browser game that helps students understand decimal comparison while identifying their misconceptions.  
+  A fun browser-based game for decimal comparison that detects student misconceptions using a Bayesian diagnostic model and adapts questions based on real-time learning signals. 
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
     
  

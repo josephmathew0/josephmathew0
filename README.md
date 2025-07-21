@@ -2,21 +2,21 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>SJMTA website (JavaScript, HTML, CSS, and JQuery)</b>
+- <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
+  A modern rebuild of a music association site, replacing WordPress with a custom static version.  
   - [sjmta.org](https://sjmta.org/) 
 
-- <b>Educational Game - Hidden Numbers</b>
+- <b>Educational Game – Hidden Numbers</b>  
+  A fun browser game that helps students practice number recognition and logic.  
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
 
 
 <h2>📝 Certifications</h2>
 
-- [Machine Learning - Coursera](link)
+- [Machine Learning – Coursera](link)
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [<img align="left" alt="JosephMathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/josephmathew0

@@ -11,7 +11,7 @@
 - <b>Educational Game – Hidden Numbers</b>  
   A fun browser game that helps students understand decimal comparison while identifying their misconceptions.  
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
-  - 
+    
  
 - <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
   Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Render deployed version.  

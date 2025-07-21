@@ -1,24 +1,22 @@
-# Hi, I'm Joseph!
-### [Programmer](https://github.com/josephmathew0)
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephmathew0">Programmer</a>
 
----
+<h2>👨‍💻 Software Development Projects:</h2>
 
-## 👨‍💻 Software Development Projects
+- <b>SJMTA website (JavaScript, HTML, CSS, and JQuery)</b>
+  - [sjmta.org](https://sjmta.org/) 
 
-### 🔹 [SJMTA Website](https://sjmta.org/)
-A complete rebuild of the South Jersey Music Teachers Association site using **HTML**, **CSS**, **JavaScript**, and **jQuery**. Migrated from WordPress to a lightweight static version, deployed via Render to reduce hosting costs and boost speed.
+- <b>Educational Game - Hidden Numbers</b>
+  - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
 
-### 🔹 [Hidden Numbers – Educational Game](https://josephmathew0.github.io/HiddenNumbers-Game/)
-A browser-based game that helps students improve number recognition and logic skills. Built using **HTML**, **CSS**, and **JavaScript** with interactive UI and responsive design.
 
----
+<h2>📝 Certifications</h2>
 
-## 📝 Certifications
+- [Machine Learning - Coursera](link)
 
-- [Machine Learning – Coursera](https://coursera.org/verify/ML-Certificate-Link)
+<h2> 🤳 Connect with me:</h2>
 
----
 
-## 🤝 Connect with Me
+[<img align="left" alt="JosephMathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephmathew0-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/josephmathew0)
+
+[linkedin]: https://linkedin.com/in/josephmathew0

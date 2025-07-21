@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
-  A modern rebuild of a music association site, replacing WordPress with a custom static version.  
+  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Render deployed version.  
   - [sjmta.org](https://sjmta.org/) 
 
 - <b>Educational Game – Hidden Numbers</b>  
-  A fun browser game that helps students practice number recognition and logic.  
+  A fun browser game that helps students understand decimal comparison while identifying their misconceptions.  
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
 
 

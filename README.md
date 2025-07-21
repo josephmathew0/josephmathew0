@@ -14,7 +14,7 @@
     
  
 - <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
-  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Render deployed version.  
+  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Vercel deployed version.  
   - [sjmta.org](https://sjmta.org/) 
 
 

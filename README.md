@@ -1,25 +1,24 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephmathew0">Programmer</a>
+# Hi, I'm Joseph!
+### [Programmer](https://github.com/josephmathew0)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-<li>
-  <strong><a href="https://sjmta.org/" target="_blank">SJMTA Website</a></strong> – Redesigned and rebuilt the official site for the South Jersey Music Teachers Association. Replaced the legacy WordPress setup with a custom static site using HTML, CSS, JavaScript, and jQuery. Deployed on Render to eliminate previous hosting costs and simplify maintenance. The result is a faster, responsive, and more modern web experience tailored for music educators and students.
-</li>
+## 🧑‍💻 Software Development Projects:
 
-    
-- <b>Educational Game - Hidden Numbers</b>
-  - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
+- **[SJMTA Website](https://sjmta.org/)**  
+  Revamped the official site for the South Jersey Music Teachers Association. Rebuilt the entire site from scratch using HTML, CSS, JavaScript, and jQuery, replacing a slow and outdated WordPress setup. Deployed on Render, eliminating hosting costs and greatly improving speed, maintainability, and responsiveness across devices.
 
+- **[Educational Game – Hidden Numbers](https://github.com/josephmathew0/HiddenNumbers-Game)**  
+  A fun and interactive browser-based game built to help students practice number recognition and logic. Designed using JavaScript and HTML with a clean, user-friendly UI.
 
-<h2>📝 Certifications</h2>
+---
 
-- [Machine Learning - Coursera](link)
+## 📝 Certifications
 
-<h2> 🤳 Connect with me:</h2>
+- [Machine Learning – Coursera](https://www.coursera.org/learn/machine-learning)
 
+---
 
-[<img align="left" alt="JosephMathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🧃 Connect with me:
 
-
-[linkedin]: https://linkedin.com/in/josephmathew0
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephmathew0-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/josephmathew0)

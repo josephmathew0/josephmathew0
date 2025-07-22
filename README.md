@@ -10,7 +10,8 @@
 - <b>Educational Game – Hidden Numbers</b>  
   A fun decimal comparison game that detects student misconceptions using a Bayesian diagnostic model and adapts questions based on real-time probability updates. 
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
-    
+  <br>
+  
  
 - <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
   Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Vercel deployed version.  

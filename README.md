@@ -4,7 +4,7 @@
 
 - <b>NeuraLearn – AI-Aided Learning Platform (React, Flask, PostgreSQL, T5, BERT)</b>  
   An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation.  
-  🌐 Live site: [neuralearn.online](https://neuralearn.online)  |  💻 Code: [GitHub Repository](https://github.com/josephmathew0/NeuraLearn)
+  - 🌐 Live site: [neuralearn.online](https://neuralearn.online)  |  💻 Code: [GitHub Repository](https://github.com/josephmathew0/NeuraLearn)
 
  
 - <b>Educational Game – Hidden Numbers</b>  

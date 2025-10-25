@@ -6,6 +6,11 @@
   An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation.  
   - 🌐 Live site: [neuralearn.online](https://neuralearn.online)  &nbsp; | &nbsp;  💻 Code: [GitHub Repository](https://github.com/josephmathew0/NeuraLearn) <br>
   <br>
+
+- <b>Monty – LinkedIn-Powered Career Insights Dashboard (Dash, Flask, Pandas, Folium)</b>  
+  An interactive web app that parses LinkedIn profiles to generate personalized career insights — including role matching, salary vs. national averages, education trends, and U.S. job distribution maps.  
+  - 🌐 Live site: [monty-kq9g.onrender.com](https://monty-kq9g.onrender.com)
+  <br><br>
  
 - <b>Educational Game – Hidden Numbers</b>  
   A fun decimal comparison game that detects student misconceptions using a Bayesian diagnostic model and adapts questions based on real-time probability updates. 

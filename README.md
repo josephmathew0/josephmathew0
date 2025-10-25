@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NeuraLearn – AI-Aided Learning Platform (React, Flask, PostgreSQL, T5, BERT)</b>  
-  An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation.  
-  - 🌐 Live site: [neuralearn.online](https://neuralearn.online)  &nbsp; | &nbsp;  💻 Code: [GitHub Repository](https://github.com/josephmathew0/NeuraLearn) <br>
+  An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation. 
+  - 🌐 Live site: [neuralearn.online](https://neuralearn.online) (Takes a little time to load as hosted on a free tier version)
   <br>
 
 - <b>Monty – LinkedIn-Powered Career Insights Dashboard (Dash, Flask, Pandas, Folium)</b>  
-  An interactive web app that parses LinkedIn profiles to generate personalized career insights — including role matching, salary vs. national averages, education trends, and U.S. job distribution maps.  
-  - 🌐 Live site: [monty-kq9g.onrender.com](https://monty-kq9g.onrender.com)
+  An interactive web app that parses LinkedIn profiles to generate personalized career insights — including role matching, salary vs. national averages, education trends, and U.S. job distribution maps. 
+  - 🌐 Live site: [monty-kq9g.onrender.com](https://monty-kq9g.onrender.com) (Takes a little time to load as hosted on a free tier version)
   <br><br>
  
 - <b>Educational Game – Hidden Numbers</b>  

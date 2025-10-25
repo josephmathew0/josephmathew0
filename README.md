@@ -12,14 +12,14 @@
   - 🌐 Live site: [monty-kq9g.onrender.com](https://monty-kq9g.onrender.com) (Takes a little time to load as hosted on a free tier version)
   <br><br>
  
-- <b>Educational Game – Hidden Numbers</b>  
+- <b>Educational Game – Hidden Numbers (JavaScript, HTML, CSS, and jQuery)</b>  
   A fun decimal comparison game that detects student misconceptions using a Bayesian diagnostic model and adapts questions based on real-time probability updates. 
   - [Hidden Numbers](https://josephmathew0.github.io/HiddenNumbers-Game/)
   <br>
   
  
 - <b>SJMTA website (JavaScript, HTML, CSS, and jQuery)</b>  
-  Enhanced rebuild of a music teacher's association website, replacing WordPress with a custom Vercel deployed version.  
+  Reengineered the SJMTA.org website by replacing WordPress with a front-end architecture optimized for performance, and deployed on GitHub Pages with automated DNS and SSL configuration.  
   - [sjmta.org](https://sjmta.org/)
   <br>
 

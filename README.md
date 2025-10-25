@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>NeuraLearn – AI-Aided Learning Platform (React, Flask, PostgreSQL, T5, BERT)</b>  
+- <b>NeuraLearn – AI-Aided Learning Platform (Python, React, Flask, PostgreSQL, T5, BERT)</b>  
   An interactive educational tool with adaptive feedback, multiplayer SQL games, and AI-powered question generation. 
   - 🌐 Live site: [neuralearn.online](https://neuralearn.online) (Takes a little time to load as hosted on a free tier version)
   <br>
 
-- <b>Monty – LinkedIn-Powered Career Insights Dashboard (Dash, Flask, Pandas, Folium)</b>  
+- <b>Monty – LinkedIn-Powered Career Insights Dashboard (Python, Dash, Flask, Pandas, Folium)</b>  
   An interactive web app that parses LinkedIn profiles to generate personalized career insights — including role matching, salary vs. national averages, education trends, and U.S. job distribution maps. 
   - 🌐 Live site: [monty-kq9g.onrender.com](https://monty-kq9g.onrender.com) (Takes a little time to load as hosted on a free tier version)
   <br><br>
